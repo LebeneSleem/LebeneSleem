@@ -1,6 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-![image1_0](https://github.com/LebeneSleem/LebeneSleem/assets/128799752/9a52aa67-cfc9-4971-921f-56e65f09db21)
+![image1_0](https://github.com/LebeneSleem/LebeneSleem/assets/128799752/1cc58708-622a-4fa2-8e02-226cd9dac3b0)
+
 
 I'm Lebene but you can call me Lebx
 ==============================================================================================================================
