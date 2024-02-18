@@ -7,6 +7,7 @@ I'm Lebene but you can call me Lebx
 ==============================================================================================================================
 - My full name is Lebene Gbebleou-Sleem
 - 👀 I’m interested in Frontend, backend and App Development
+- 👩🏻‍💻 Proficient in Wordpress Website Management and API integration
 - 🌱 I’m currently learning Software Engineering from ALX
 - 💞️ I’m looking to collaborate on exciting and challenging Web & App Development projects 
 
